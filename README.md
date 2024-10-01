@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 
 ## Mobile
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/swift-original" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
