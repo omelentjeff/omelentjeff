@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
 ## :hammer_and_wrench: Languages and Tools :
 
 ## Frontend
