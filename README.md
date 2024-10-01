@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 
 # About Me
 ### I am a third year Business Information Systems student at Tampere University of Applied Sciences
+I
 
 <!--
 - 🔭 I’m currently working on ...
@@ -24,7 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
---
 
 ## :hammer_and_wrench: Languages and Tools :
 
@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ## Mobile
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
 </div>
 
 ### Contact Me
