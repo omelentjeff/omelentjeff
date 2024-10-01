@@ -1,14 +1,16 @@
-## Hi there 👋
-
 <!--
 **omelentjeff/omelentjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+## Hello friend, I'm Otto Melentjeff👋
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+
 
 # About Me
 ### I am a third year Business Information Systems student at Tampere University of Applied Sciences
@@ -53,7 +55,8 @@ I
 
 ## Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
 ### Contact Me
