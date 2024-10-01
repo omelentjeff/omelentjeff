@@ -6,6 +6,10 @@
 Here are some ideas to get you started:
 -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 # About Me
 ### I am a third year Business Information Systems student at Tampere University of Applied Sciences
 
