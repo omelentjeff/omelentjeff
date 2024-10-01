@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-
+#I am a third year Business Information Systems student at Tampere University of Applied Sciences
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
