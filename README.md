@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/otto-melentjeff-533341259/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 ### :hammer_and_wrench: Languages and Tools :
 
 ## Frontend
@@ -52,4 +46,11 @@ Here are some ideas to get you started:
 ## Mobile
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+</div>
+
+### Contact Me
+<div id="badges">
+  <a href="https://www.linkedin.com/in/otto-melentjeff-533341259/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
