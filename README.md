@@ -67,6 +67,9 @@ Here are some ideas to get you started:
 # Projects
  
 ## Helsinki City Bike
+<a href="https://github.com/omelentjeff/helsinki-city-bike">
+  <p>Link to repository</p>
+</a>
 
 ### Technologies used
 <div>
@@ -89,6 +92,10 @@ Here are some ideas to get you started:
 ---
 
 ## Learn Languages App
+
+<a href="https://github.com/omelentjeff/learn-languages">
+  <p>Link to repository</p>
+</a>
 
 ### Technologies used
 <div>
