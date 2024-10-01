@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-## :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages and Tools
 
 ## Frontend
 <div>
@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 </div>
 
 # Projects
- 
  
 ## Helsinki City Bike
 
