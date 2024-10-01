@@ -4,7 +4,11 @@
 **omelentjeff/omelentjeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
+## About Me
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/otto-melentjeff-533341259/" target="_blank">
+  <a href="https://www.linkedin.com/in/otto-melentjeff-533341259/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
