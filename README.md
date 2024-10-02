@@ -18,7 +18,7 @@
 ### I am a third-year Business Information Systems student at Tampere University of Applied Sciences.
 
 - 🌱 I’m currently learning backend technologies, specifically Spring Boot.
-- 🔭 I’m working on a real-time chat application.
+- 🔭 I’m currently working on a real-time chat application.
 - 📫 How to reach me: [melentjeffotto@gmail.com](mailto:melentjeffotto@gmail.com)
 
 ---
