@@ -98,6 +98,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
 ---
 
 ### :fire: My Stats :
@@ -112,3 +113,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelentjeff&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </a>
 </div>
+-->
