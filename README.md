@@ -76,6 +76,9 @@
 ---
 
 ## Weather App (iOS)
+<a href="https://github.com/omelentjeff/iOS-weather-app">
+  <p>Link to repository</p>
+</a>
 
 ### Technologies used
 <div>
