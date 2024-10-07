@@ -61,6 +61,10 @@
 # Projects
 
 ## Helsinki City Bike
+
+Note: This is still a work in progress.
+
+
 <a href="https://github.com/omelentjeff/helsinki-city-bike">
   <p>Link to repository</p>
 </a>
