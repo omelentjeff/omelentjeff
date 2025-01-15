@@ -40,6 +40,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+
 </div>
 
 ### Mobile
@@ -60,10 +62,26 @@
 
 # Projects
 
+## Chatter! A real time chat application
+
+
+<a href="https://github.com/omelentjeff/chat-app">
+  <p>Link to repository</p>
+</a>
+
+### Technologies used
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" title="Docker" alt="Docker" width="40"/>&nbsp;
+  <img src="https://github.com/onemarc/tech-icons/blob/main/icons/materialui.svg" title="Material UI" alt="Material UI" width="40"/>&nbsp;
+</div>
+
+---
+
 ## Helsinki City Bike
-
-Note: This is still a work in progress.
-
 
 <a href="https://github.com/omelentjeff/helsinki-city-bike">
   <p>Link to repository</p>
