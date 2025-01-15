@@ -64,6 +64,7 @@
 
 ## Chatter! A real time chat application
 
+### Note: This is still a work in progress.
 
 <a href="https://github.com/omelentjeff/chat-app">
   <p>Link to repository</p>
