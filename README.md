@@ -69,6 +69,7 @@
 <a href="https://github.com/omelentjeff/chat-app">
   <p>Link to repository</p>
 </a>
+<a href="https://chatter.mangocliff-4c9fb8c2.northeurope.azurecontainerapps.io"> Try it here!</a>
 
 ### Technologies used
 <div>
