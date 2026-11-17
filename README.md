@@ -1,3 +1,4 @@
+<!--
 <div align="center" id="badges">
   <h1><strong>Hello 👋 I'm Otto Melentjeff</strong></h1>
   <a href="https://www.linkedin.com/in/otto-melentjeff-533341259/">
@@ -143,4 +144,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omelentjeff&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
   </a>
 </div>
+
 -->
